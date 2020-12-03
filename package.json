@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "author": "Jared Krause",
+  "license": "MIT",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
