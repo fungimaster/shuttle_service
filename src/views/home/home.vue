@@ -1,6 +1,16 @@
 <template>
   <div>
-    <h1>Home</h1>
+    <h1>Shuttle Service</h1>
+    <b-container>
+      <b-row>
+        <b-col cols="12">
+          123
+        </b-col>
+        <b-col cols="12">
+          1234
+        </b-col>
+      </b-row>
+    </b-container>
     <p>{{sampleItem}}</p>
     <router-link :to="{name: 'about'}">About Page</router-link>
   </div>
